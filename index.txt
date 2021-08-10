@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bonjour tout le monde
+=======
+test 13:54
+>>>>>>> ef3bf31cc4affb50f15b660f6a49c69cf4758d15
